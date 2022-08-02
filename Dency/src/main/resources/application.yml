@@ -1,0 +1,15 @@
+server:
+  port: 5210
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/StudentDepartmentManagement
+
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            core:
+              MongoTemplate: DEBUG

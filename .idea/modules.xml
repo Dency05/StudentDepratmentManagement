@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dency/Dency.iml" filepath="$PROJECT_DIR$/Dency/Dency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StudentDepratmentManagement.iml" filepath="$PROJECT_DIR$/.idea/StudentDepratmentManagement.iml" />
+    </modules>
+  </component>
+</project>
